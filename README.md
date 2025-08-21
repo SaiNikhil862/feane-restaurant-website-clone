@@ -1,12 +1,165 @@
-# React + Vite
+# 🍕 Feane Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive restaurant website clone built with React and Tailwind CSS
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-deployment-url.vercel.app)
+[![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SaiNikhil862/feane-restaurant-website-clone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 **Modern UI Design** - Clean and professional restaurant interface
+- 📱 **Fully Responsive** - Perfect on desktop, tablet, and mobile
+- 🍔 **Interactive Menu** - Filterable food items with categories
+- 🌟 **Customer Reviews** - Beautiful testimonials with profile images
+- 📍 **Location Integration** - Google Maps embedded for easy navigation
+- 🎯 **Booking System** - Table reservation form with validation
+- ⚡ **Fast Performance** - Optimized with Vite and modern React
+- 💎 **Custom Animations** - Diamond pointer effects and hover interactions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+[**View Live Website →**](https://your-deployment-url.vercel.app)
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](https://via.placeholder.com/800x400/222831/FFBE33?text=Homepage+Screenshot)
+
+### 🍽️ Menu Section
+![Menu](https://via.placeholder.com/800x400/212529/FFFFFF?text=Menu+Section+Screenshot)
+
+### 📝 Booking Section
+![Booking](https://via.placeholder.com/800x400/343a40/FFBE33?text=Booking+Form+Screenshot)
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | Frontend Framework |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Styling |
+| ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | Build Tool |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Programming Language |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Markup |
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/SaiNikhil862/feane-restaurant-website-clone.git
+
+# Navigate to project directory
+cd feane-restaurant-website-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## 🎯 Project Structure
+
+```
+feane_clone/
+├── 📁 public/
+│   └── vite.svg
+├── 📁 src/
+│   ├── 📁 assets/
+│   │   ├── 🖼️ img1-img9.png     # Menu item images
+│   │   ├── 🖼️ boy.jpg, girl.jpg  # Customer avatars
+│   │   ├── 🖼️ burger.jpg         # Promotional images
+│   │   └── 🖼️ main_bg.jpg        # Hero background
+│   ├── 📁 components/
+│   │   └── 📄 Webpage.jsx        # Main component (278 lines)
+│   ├── 📄 App.jsx
+│   ├── 📄 main.jsx
+│   └── 🎨 index.css
+├── ⚙️ tailwind.config.js
+├── ⚙️ vite.config.js
+└── 📋 package.json
+```
+
+## 🌟 Key Features Breakdown
+
+### 🍔 Menu System
+- **Dynamic Food Cards** - 9 different menu items
+- **Category Filtering** - All, Burger, Pizza, Pasta, Fries
+- **Responsive Grid Layout** - 3-column grid design
+- **Interactive Buttons** - Add to cart functionality
+
+### 👥 Customer Reviews
+- **Testimonial Cards** - Customer feedback display
+- **Profile Images** - With custom diamond pointer effects
+- **Responsive Design** - 2-column grid layout
+
+### 📍 Location & Booking
+- **Google Maps Integration** - Embedded map for restaurant location
+- **Booking Form** - Complete reservation system
+- **Input Validation** - Form fields with proper styling
+
+### 🎨 Design Elements
+- **Custom Animations** - Diamond pointers using Tailwind pseudo-elements
+- **Hover Effects** - Interactive buttons and navigation
+- **Color Scheme** - Professional yellow (#FFBE33) and dark theme
+- **Typography** - Dancing Script font for headings
+
+## 🚀 Deployment
+
+### Deploy to Vercel (Recommended)
+
+1. Push your code to GitHub (✅ Already done!)
+2. Visit [vercel.com](https://vercel.com)
+3. Import your GitHub repository
+4. Deploy with one click!
+
+### Deploy to Netlify
+
+1. Visit [netlify.com](https://netlify.com)
+2. Drag and drop your `dist` folder after running `npm run build`
+3. Your site is live!
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🔄 Open a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Sai Nikhil**
+- GitHub: [@SaiNikhil862](https://github.com/SaiNikhil862)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Email: your.email@example.com
+
+## 🙏 Acknowledgments
+
+- Design inspiration from modern restaurant websites
+- Icons from [React Icons](https://react-icons.github.io/react-icons/)
+- Images from [Unsplash](https://unsplash.com) and custom assets
+- Built with love using React and Tailwind CSS ❤️
+
+## 📈 Stats
+
+![GitHub repo size](https://img.shields.io/github/repo-size/SaiNikhil862/feane-restaurant-website-clone)
+![GitHub code size](https://img.shields.io/github/languages/code-size/SaiNikhil862/feane-restaurant-website-clone)
+![GitHub language count](https://img.shields.io/github/languages/count/SaiNikhil862/feane-restaurant-website-clone)
+![GitHub top language](https://img.shields.io/github/languages/top/SaiNikhil862/feane-restaurant-website-clone)
+
+---
+
+⭐ **If you like this project, please give it a star on GitHub!** ⭐
+
+Made with ❤️ by [Sai Nikhil](https://github.com/SaiNikhil862)
