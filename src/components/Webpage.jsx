@@ -33,7 +33,7 @@ let Webpage = () => {
         <img
           src={img1}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[152.19px] object-cover"
+          className="h-[144.99px] mx-auto w-[152.19px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Pizza",
@@ -48,7 +48,7 @@ let Webpage = () => {
         <img
           src={img2}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[196.68px] object-cover"
+          className="h-[144.99px] mx-auto w-[196.68px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Burger",
@@ -63,7 +63,7 @@ let Webpage = () => {
         <img
           src={img3}
           alt="check img"
-          className="h-[145px] mx-auto w-[145px] object-cover"
+          className="h-[145px] mx-auto w-[145px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Pizza",
@@ -78,7 +78,7 @@ let Webpage = () => {
         <img
           src={img4}
           alt="check img"
-          className="h-[145px] mx-auto w-[257px] object-cover"
+          className="h-[145px] mx-auto w-[257px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Pasta",
@@ -93,7 +93,7 @@ let Webpage = () => {
         <img
           src={img5}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[218px] object-cover "
+          className="h-[144.99px] mx-auto w-[218px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "French Fries",
@@ -108,7 +108,7 @@ let Webpage = () => {
         <img
           src={img6}
           alt="check img"
-          className="h-[145px] mx-auto w-[145px] object-cover"
+          className="h-[145px] mx-auto w-[145px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Pizza",
@@ -123,7 +123,7 @@ let Webpage = () => {
         <img
           src={img7}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[175px] object-cover"
+          className="h-[144.99px] mx-auto w-[175px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Tasty Burger",
@@ -138,7 +138,7 @@ let Webpage = () => {
         <img
           src={img8}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[178.19px] object-cover"
+          className="h-[144.99px] mx-auto w-[178.19px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Tasty Burger",
@@ -153,7 +153,7 @@ let Webpage = () => {
         <img
           src={img9}
           alt="check img"
-          className="h-[144.99px] mx-auto w-[180px] object-cover"
+          className="h-[144.99px] mx-auto w-[180px] object-cover transition-transform duration-300 hover:scale-110"
         />
       ),
       item: "Delicious Pizza",
@@ -305,7 +305,7 @@ let Webpage = () => {
                 key={index}
                 className=" border-2 rounded-[25px] h-[443px] bg-[#212529] gap-y-10 text-white w-[390px]"
               >
-                <div className=" h-[215px] w-[387px] rounded-t-[21px] bg-[#F1F2F3] flex items-center justify-center rounded-bl-4xl">
+                <div className=" h-[215px] w-[387px] rounded-t-[21px] bg-[#F1F2F3] flex items-center justify-center rounded-bl-4xl overflow-hidden">
                   {item.pic}
                 </div>
                 <h3 className="h-[24px] font-bold pl-5 pt-8 text-xl w-[310px]">
