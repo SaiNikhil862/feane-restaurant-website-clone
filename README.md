@@ -1,14 +1,23 @@
-# 🍕 Feane Restaurant Website Clone
+# 🍕 Feane Restaurant Website C## 🚀 Quick Start
+
+### 🌐 View Live Demo
+**👉 [Visit Live Website](https://sainikhil862.github.io/feane-restaurant-website-clone/)**
+
+### 💻 Run Locally
+
+To run this project locally:e
 
 > A modern, responsive restaurant website clone built with React and Tailwind CSS for learning purposes
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-FF6B6B?style=for-the-badge&logo=vercel)](https://sainikhil862.github.io/feane-restaurant-website-clone/)
 [![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SaiNikhil862/feane-restaurant-website-clone)
 
 ## ✨ Features
 
-- 🎨 **Modern UI Design** - Clean and professional restaurant interface
+- � **Live Demo Available** - View the website at [GitHub Pages](https://sainikhil862.github.io/feane-restaurant-website-clone/)
+- �🎨 **Modern UI Design** - Clean and professional restaurant interface
 - 📱 **Responsive Layout** - Built with mobile-first approach
 - 🍔 **Interactive Menu** - Filterable food items with categories
 - 🌟 **Customer Reviews** - Beautiful testimonials with profile images
@@ -102,6 +111,19 @@ feane_clone/
 - **Hover Effects** - Interactive buttons and navigation
 - **Color Scheme** - Professional yellow (#FFBE33) and dark theme
 - **Typography** - Dancing Script font for headings
+
+## 🚀 Deployment
+
+This website is deployed using **GitHub Pages** and is automatically updated with every push to the main branch.
+
+**Live URL**: https://sainikhil862.github.io/feane-restaurant-website-clone/
+
+### Deploy Your Own Copy
+1. Fork this repository
+2. Go to Settings → Pages in your fork
+3. Select "Deploy from a branch" 
+4. Choose `main` branch and `/ (root)` folder
+5. Click Save - your site will be live at `https://yourusername.github.io/feane-restaurant-website-clone/`
 
 <<<<<<< HEAD
 ## � Acknowledgments
