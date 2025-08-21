@@ -108,20 +108,6 @@ feane_clone/
 - **Color Scheme** - Professional yellow (#FFBE33) and dark theme
 - **Typography** - Dancing Script font for headings
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub (✅ Already done!)
-2. Visit [vercel.com](https://vercel.com)
-3. Import your GitHub repository
-4. Deploy with one click!
-
-### Deploy to Netlify
-
-1. Visit [netlify.com](https://netlify.com)
-2. Drag and drop your `dist` folder after running `npm run build`
-3. Your site is live!
 
 ## 🤝 Contributing
 
@@ -141,12 +127,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Sai Nikhil**
 - GitHub: [@SaiNikhil862](https://github.com/SaiNikhil862)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sai-nikhil-goud)
 
 ## 🙏 Acknowledgments
 
-- Design inspiration from modern restaurant websites
+- Design inspiration from modern restaurant websites feane
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Images from [Unsplash](https://unsplash.com) and custom assets
 - Built with love using React and Tailwind CSS ❤️
