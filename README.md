@@ -103,10 +103,37 @@ feane_clone/
 - **Color Scheme** - Professional yellow (#FFBE33) and dark theme
 - **Typography** - Dancing Script font for headings
 
+<<<<<<< HEAD
 ## � Acknowledgments
 
 - This is a clone project created for learning React and Tailwind CSS
 - Design inspiration from modern restaurant websites
+=======
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🔄 Open a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Sai Nikhil**
+- GitHub: [@SaiNikhil862](https://github.com/SaiNikhil862)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sai-nikhil-goud)
+
+## 🙏 Acknowledgments
+
+- Design inspiration from modern restaurant websites feane
+>>>>>>> 1a47eca49abbb959151dd705ef102a940becc6a3
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Images from [Unsplash](https://unsplash.com) and custom assets
 - Built with love for learning purposes ❤️
