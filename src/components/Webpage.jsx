@@ -392,15 +392,16 @@ let Webpage = () => {
               placeholder="Your Email"
               className="h-[50px] w-[555px] rounded-[6px] border-1 pl-5"
             />
-            <input
-              type="number"
-              name=""
-              id=""
-              placeholder="How Many Persons?"
-              className="h-[50px] w-[555px] rounded-[6px] border-1 pl-5"
-            />{" "}
-            <IoChevronDown />
-            {/* add chevron animation here and give animation */}
+            <div className="relative">
+              <input
+                type="number"
+                name=""
+                id=""
+                placeholder="How Many Persons?"
+                className="h-[50px] w-[555px] rounded-[6px] border-1 pl-5 pr-12"
+              />
+              <IoChevronDown className="absolute right-4 top-1/2 transform -translate-y-1/2 transition-transform duration-300 hover:scale-110 cursor-pointer text-gray-500" />
+            </div>
             <input
               type="date"
               name=""
