@@ -157,7 +157,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Design inspiration from modern restaurant websites feane
 >>>>>>> 1a47eca49abbb959151dd705ef102a940becc6a3
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
-- Images from [Unsplash](https://unsplash.com) and custom assets
 - Built with love for learning purposes ❤️
 
 ---
