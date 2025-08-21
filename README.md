@@ -1,8 +1,7 @@
-# 🍕 Feane Restaurant Website
+# 🍕 Feane Restaurant Website Clone
 
-> A modern, responsive restaurant website clone built with React and Tailwind CSS
+> A modern, responsive restaurant website clone built with React and Tailwind CSS for learning purposes
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-deployment-url.vercel.app)
 [![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SaiNikhil862/feane-restaurant-website-clone)
@@ -10,40 +9,27 @@
 ## ✨ Features
 
 - 🎨 **Modern UI Design** - Clean and professional restaurant interface
-- 📱 **Fully Responsive** - Perfect on desktop, tablet, and mobile
+- 📱 **Responsive Layout** - Built with mobile-first approach
 - 🍔 **Interactive Menu** - Filterable food items with categories
 - 🌟 **Customer Reviews** - Beautiful testimonials with profile images
-- 📍 **Location Integration** - Google Maps embedded for easy navigation
-- 🎯 **Booking System** - Table reservation form with validation
+- 📍 **Location Integration** - Google Maps embedded
+- 🎯 **Booking System** - Table reservation form
 - ⚡ **Fast Performance** - Optimized with Vite and modern React
 - 💎 **Custom Animations** - Diamond pointer effects and hover interactions
 
-## 🚀 Live Demo
+## 🎯 Learning Objectives
 
-[**View Live Website →**](https://your-deployment-url.vercel.app)
+This clone project helped me practice:
+- ✅ Modern React development with hooks and components
+- ✅ Tailwind CSS utility-first styling approach
+- ✅ Responsive design principles
+- ✅ Git version control and GitHub workflows
+- ✅ Component-based architecture
+- ✅ State management with React hooks
 
-## 📸 Screenshots
+## � Getting Started
 
-### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400/222831/FFBE33?text=Homepage+Screenshot)
-
-### 🍽️ Menu Section
-![Menu](https://via.placeholder.com/800x400/212529/FFFFFF?text=Menu+Section+Screenshot)
-
-### 📝 Booking Section
-![Booking](https://via.placeholder.com/800x400/343a40/FFBE33?text=Booking+Form+Screenshot)
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|------------|---------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | Frontend Framework |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Styling |
-| ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | Build Tool |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Programming Language |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Markup |
-
-## 📦 Installation
+To run this project locally:
 
 ```bash
 # Clone the repository
@@ -58,9 +44,18 @@ npm install
 # Start development server
 npm run dev
 
-# Build for production
-npm run build
+# Open http://localhost:5173 in your browser
 ```
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | Frontend Framework |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Styling |
+| ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | Build Tool |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Programming Language |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Markup |
 
 ## 🎯 Project Structure
 
@@ -108,48 +103,19 @@ feane_clone/
 - **Color Scheme** - Professional yellow (#FFBE33) and dark theme
 - **Typography** - Dancing Script font for headings
 
-## 🚀 Deployment
+## � Acknowledgments
 
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub (✅ Already done!)
-2. Visit [vercel.com](https://vercel.com)
-3. Import your GitHub repository
-4. Deploy with one click!
-
-### Deploy to Netlify
-
-1. Visit [netlify.com](https://netlify.com)
-2. Drag and drop your `dist` folder after running `npm run build`
-3. Your site is live!
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Sai Nikhil**
-- GitHub: [@SaiNikhil862](https://github.com/SaiNikhil862)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
+- This is a clone project created for learning React and Tailwind CSS
 - Design inspiration from modern restaurant websites
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Images from [Unsplash](https://unsplash.com) and custom assets
-- Built with love using React and Tailwind CSS ❤️
+- Built with love for learning purposes ❤️
+
+---
+
+⭐ **If this helped you learn React & Tailwind, please give it a star!** ⭐
+
+Made with ❤️ by [Sai Nikhil](https://github.com/SaiNikhil862) for learning purposes
 
 ## 📈 Stats
 
