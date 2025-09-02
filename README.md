@@ -66,27 +66,6 @@ npm run dev
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Programming Language |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Markup |
 
-## 🎯 Project Structure
-
-```
-feane_clone/
-├── 📁 public/
-│   └── vite.svg
-├── 📁 src/
-│   ├── 📁 assets/
-│   │   ├── 🖼️ img1-img9.png     # Menu item images
-│   │   ├── 🖼️ boy.jpg, girl.jpg  # Customer avatars
-│   │   ├── 🖼️ burger.jpg         # Promotional images
-│   │   └── 🖼️ main_bg.jpg        # Hero background
-│   ├── 📁 components/
-│   │   └── 📄 Webpage.jsx        # Main component (278 lines)
-│   ├── 📄 App.jsx
-│   ├── 📄 main.jsx
-│   └── 🎨 index.css
-├── ⚙️ tailwind.config.js
-├── ⚙️ vite.config.js
-└── 📋 package.json
-```
 
 ## 🌟 Key Features Breakdown
 
@@ -112,35 +91,13 @@ feane_clone/
 - **Color Scheme** - Professional yellow (#FFBE33) and dark theme
 - **Typography** - Dancing Script font for headings
 
-## 🚀 Deployment
-
-This website is deployed using **GitHub Pages** and is automatically updated with every push to the main branch.
-
 **Live URL**: https://sainikhil862.github.io/feane-restaurant-website-clone/
 
-### Deploy Your Own Copy
-1. Fork this repository
-2. Go to Settings → Pages in your fork
-3. Select "Deploy from a branch" 
-4. Choose `main` branch and `/ (root)` folder
-5. Click Save - your site will be live at `https://yourusername.github.io/feane-restaurant-website-clone/`
-
-<<<<<<< HEAD
 ## � Acknowledgments
 
 - This is a clone project created for learning React and Tailwind CSS
 - Design inspiration from modern restaurant websites
 =======
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
 
 ## 📄 License
 
@@ -154,8 +111,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Design inspiration from modern restaurant websites feane
->>>>>>> 1a47eca49abbb959151dd705ef102a940becc6a3
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Built with love for learning purposes ❤️
 
