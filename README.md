@@ -1,7 +1,7 @@
 # 🍕 Feane Restaurant Website C## 🚀 Quick Start
 
 ### 🌐 View Live Demo
-**👉 [Visit Live Website](https://sainikhil862.github.io/feane-restaurant-website-clone/)**
+**👉 [Visit Live Website](https://feane-clone-jynhh8of4-sai-nikhils-projects-adb845a3.vercel.app)**
 
 ### 💻 Run Locally
 
@@ -35,26 +35,6 @@ This clone project helped me practice:
 - ✅ Git version control and GitHub workflows
 - ✅ Component-based architecture
 - ✅ State management with React hooks
-
-## � Getting Started
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/SaiNikhil862/feane-restaurant-website-clone.git
-
-# Navigate to project directory
-cd feane-restaurant-website-clone
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open http://localhost:5173 in your browser
-```
 
 ## 🛠️ Tech Stack
 
